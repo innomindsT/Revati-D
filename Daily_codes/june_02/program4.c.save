@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+int a;
+float b;
+char c;
+printf("enter  one integer one float one character:\n");
+scanf("%dprintf("you entered integer is %d one character is %c one  float is%f\n",a,c,b);
+} 
